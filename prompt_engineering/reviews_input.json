@@ -1,0 +1,29 @@
+{
+    "reviews": [
+        {
+            "review": "I recently purchased a pair of Nike running shoes, and I must say, they are fantastic! The comfort and support they provide during my runs are exceptional. I love the design and the fit is just perfect. I would highly recommend these shoes to anyone looking for a reliable running partner.",
+            "item": "Shoes",
+            "brand": "Nike"
+        },
+        {
+            "review": "I bought the latest Apple iPhone, and honestly, I am very disappointed. The battery life is terrible, and it doesn't live up to the hype. I expected much more from such a premium product, and I feel like I wasted my money. I can't believe how bad the customer service was when I tried to reach out for help.",
+            "item": "Phone",
+            "brand": "Apple"
+        },
+        {
+            "review": "I had an awful experience with my Dell laptop. It started malfunctioning within a month of purchase, and every time I contacted support, they seemed uninterested in helping. I feel angry about the way my case was handled. I do not recommend this brand at all, given my experience.",
+            "item": "Laptop",
+            "brand": "Dell"
+        },
+        {
+            "review": "This Sony headphones have blown my mind! The sound quality is crystal clear, and the noise cancellation feature works like a charm. I listen to music for hours, and they remain comfortable throughout. Overall, this has been an excellent purchase, and I will definitely buy more Sony products in the future.",
+            "item": "Headphones",
+            "brand": "Sony"
+        },
+        {
+            "review": "I recently bought a Casio watch, and I must say that I hate it! The design is cheap, and it stopped working within two weeks. I've tried reaching out to customer service, but they have not responded. I would never recommend this product to anyone.",
+            "item": "Watch",
+            "brand": "Casio"
+        }
+    ]
+}

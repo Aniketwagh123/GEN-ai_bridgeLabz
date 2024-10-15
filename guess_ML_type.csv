@@ -1,0 +1,10 @@
+problem,  algo
+Spam filtering: Is an email spam or not, supervised
+Given a list of customers and information about them  discover groups of similar users. This knowledge can then be used for targeted marketing, unsupervised/semi-supervised
+Robotics: A robot is in a maze  and it needs to find a way out., reinforcement
+Training an AI for a complex game such as Civilization or Dota, reinforcement
+Anomaly detection: Given measurements from sensors in a manufacturing facility  identify anomalies  i.e. that something is wrong, supervised
+Discover patterns in data such as whenever it rains  people tend to stay indoors. When it is hot  people buy more ice-cream., unsupervised
+Given information about a house  predict its price, supervised
+Netflix: Given a user and a movie  predict the rating the user is going to give tothe movie, supervised
+Given an image  output which objects are present in the image, unsupervised

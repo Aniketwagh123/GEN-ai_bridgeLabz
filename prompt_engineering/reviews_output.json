@@ -1,0 +1,42 @@
+[
+  {
+    "Original text": "I recently purchased a pair of Nike running shoes, and I must say, they are fantastic! The comfort and support they provide during my runs are exceptional. I love the design and the fit is just perfect. I would highly recommend these shoes to anyone looking for a reliable running partner.",
+    "Sentiment": "positive",
+    "Anger": false,
+    "Item": "Shoes",
+    "Brand": "Nike",
+    "Email Response": "Dear Customer,\n\nThank you for your review: \"I recently purchased a pair of Nike running shoes, and I must say, they are fantastic! The comfort and support they provide during my runs are exceptional. I love the design and the fit is just perfect. I would highly recommend these shoes to anyone looking for a reliable running partner.\". We appreciate your feedback!\n\nBest regards,\nAI Customer Agent"
+  },
+  {
+    "Original text": "I bought the latest Apple iPhone, and honestly, I am very disappointed. The battery life is terrible, and it doesn't live up to the hype. I expected much more from such a premium product, and I feel like I wasted my money. I can't believe how bad the customer service was when I tried to reach out for help.",
+    "Sentiment": "negative",
+    "Anger": false,
+    "Item": "Phone",
+    "Brand": "Apple",
+    "Email Response": "Dear Customer,\n\nWe apologize for your experience with our product: \"I bought the latest Apple iPhone, and honestly, I am very disappointed. The battery life is terrible, and it doesn't live up to the hype. I expected much more from such a premium product, and I feel like I wasted my money. I can't believe how bad the customer service was when I tried to reach out for help.\". Please feel free to reach out to our customer service for assistance.\n\nBest regards,\nAI Customer Agent"
+  },
+  {
+    "Original text": "I had an awful experience with my Dell laptop. It started malfunctioning within a month of purchase, and every time I contacted support, they seemed uninterested in helping. I feel angry about the way my case was handled. I do not recommend this brand at all, given my experience.",
+    "Sentiment": "negative",
+    "Anger": true,
+    "Item": "Laptop",
+    "Brand": "Dell",
+    "Email Response": "Dear Customer,\n\nWe apologize for your experience with our product: \"I had an awful experience with my Dell laptop. It started malfunctioning within a month of purchase, and every time I contacted support, they seemed uninterested in helping. I feel angry about the way my case was handled. I do not recommend this brand at all, given my experience.\". Please feel free to reach out to our customer service for assistance.\n\nBest regards,\nAI Customer Agent"
+  },
+  {
+    "Original text": "This Sony headphones have blown my mind! The sound quality is crystal clear, and the noise cancellation feature works like a charm. I listen to music for hours, and they remain comfortable throughout. Overall, this has been an excellent purchase, and I will definitely buy more Sony products in the future.",
+    "Sentiment": "positive",
+    "Anger": false,
+    "Item": "Headphones",
+    "Brand": "Sony",
+    "Email Response": "Dear Customer,\n\nThank you for your review: \"This Sony headphones have blown my mind! The sound quality is crystal clear, and the noise cancellation feature works like a charm. I listen to music for hours, and they remain comfortable throughout. Overall, this has been an excellent purchase, and I will definitely buy more Sony products in the future.\". We appreciate your feedback!\n\nBest regards,\nAI Customer Agent"
+  },
+  {
+    "Original text": "I recently bought a Casio watch, and I must say that I hate it! The design is cheap, and it stopped working within two weeks. I've tried reaching out to customer service, but they have not responded. I would never recommend this product to anyone.",
+    "Sentiment": "negative",
+    "Anger": true,
+    "Item": "Watch",
+    "Brand": "Casio",
+    "Email Response": "Dear Customer,\n\nWe apologize for your experience with our product: \"I recently bought a Casio watch, and I must say that I hate it! The design is cheap, and it stopped working within two weeks. I've tried reaching out to customer service, but they have not responded. I would never recommend this product to anyone.\". Please feel free to reach out to our customer service for assistance.\n\nBest regards,\nAI Customer Agent"
+  }
+]

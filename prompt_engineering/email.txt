@@ -1,0 +1,33 @@
+From:
+Aniket wagh
+aniket.wagh@example.com
+
+To:
+HR Department
+hr@company.com
+
+CC:
+Team Lead
+team.lead@company.com
+
+BCC:
+Yourself
+aniket.wagh.bcc@example.com
+
+Subject:
+Application for Software Developer Position
+
+Date:
+October 15, 2024
+
+Dear HR Team,
+
+I hope this email finds you well. I am writing to express my interest in the Software Developer position at [Company Name]. With my background in full-stack development, proficiency in Python, React.js, Django, and experience in microservices architecture, I believe I would be a valuable asset to your team.
+
+Please find my resume attached for your review. I would be grateful for the opportunity to further discuss how my skills align with your needs. I am available for an interview at your convenience.
+
+Thank you for considering my application. I look forward to hearing from you.
+
+Best regards,
+Aniket wagh
+
